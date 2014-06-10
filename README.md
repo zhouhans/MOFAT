@@ -1,4 +1,8 @@
 MOFAT
 =====
 
-My Own Finantial Analysis Tool
+My Own Financial Analysis Tool
+
+===============================
+
+This tool is just a toy.
